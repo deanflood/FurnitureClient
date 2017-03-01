@@ -1,0 +1,10 @@
+c:\users\ibm_admin\documents\visual studio 2015\Projects\FurnitureWeather\FurnitureWeather\bin\Debug\FurnitureWeather.exe.config
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2015\Projects\FurnitureWeather\FurnitureWeather\bin\Debug\FurnitureWeather.exe
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2015\Projects\FurnitureWeather\FurnitureWeather\bin\Debug\FurnitureWeather.pdb
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2015\Projects\FurnitureWeather\FurnitureWeather\bin\Debug\Newtonsoft.Json.dll
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2015\Projects\FurnitureWeather\FurnitureWeather\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2015\Projects\FurnitureWeather\FurnitureWeather\bin\Debug\Newtonsoft.Json.xml
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2015\Projects\FurnitureWeather\FurnitureWeather\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2015\Projects\FurnitureWeather\FurnitureWeather\obj\Debug\FurnitureWeather.csprojResolveAssemblyReference.cache
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2015\Projects\FurnitureWeather\FurnitureWeather\obj\Debug\FurnitureWeather.exe
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2015\Projects\FurnitureWeather\FurnitureWeather\obj\Debug\FurnitureWeather.pdb
